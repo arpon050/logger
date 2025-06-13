@@ -65,4 +65,4 @@ This project is provided for educational purposes. Please ensure you comply with
 
 ---
 
-**Disclaimer:** Unauthorized use of keyloggers is
+**Disclaimer:** Unauthorized use of keyloggers is prohibited.
